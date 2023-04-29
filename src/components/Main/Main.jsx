@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./main.css";
+import "./main.scss";
 import img from "../../Assets/img.jpeg";
 import { HiOutlineLocationMarker } from "react-icons/hi";
 import { HiOutlineClipboardCheck } from "react-icons/hi";
@@ -100,7 +100,7 @@ const Data = [
 
 const Main = () => {
   return (
-    <section className="main-container section">
+    <section className="main container section">
       <div className="secTitle">
         <h3 className="title">Most visited destinations</h3>
       </div>
