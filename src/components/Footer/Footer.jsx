@@ -48,7 +48,7 @@ const Footer = () => {
               nisi ut aliquip ex ea commodo consequa
             </div>
 
-            <div className="footerSocials">
+            <div className="footerSocials flex">
               <AiOutlineTwitter className="icon" />
               <AiFillYoutube className="icon" />
               <AiFillInstagram className="icon" />
@@ -56,6 +56,7 @@ const Footer = () => {
           </div>
 
           <div className="footerLinks grid">
+            {/* Group One */}
             <div className="linkGroup">
               <span className="groupTitle">OUR AGENCY</span>
 
