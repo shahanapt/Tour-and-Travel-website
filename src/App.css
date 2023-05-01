@@ -87,3 +87,21 @@ input{
 body{
   background: var(--bodyColor);
 }
+
+/* Media queries */
+@media screen and (min-width: 1240px) {
+  .container {
+    width: 80% !important;
+    margin: auto !important;
+  }
+
+  .section{
+    padding: 6rem 0.4rem;
+  }
+}
+
+@media screen and (min-width: 2540px) {
+  body {
+    zoom: 1.7;
+  }
+}
