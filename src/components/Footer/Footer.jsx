@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import "./footer.scss";
-import video2 from "../../Assets/ocean-65560.mp4";
+import video2 from "../../Assets/nature-32204.mp4";
 import { FiSend } from "react-icons/fi";
 import { MdOutlineTravelExplore } from "react-icons/md";
 import { FiChevronRight } from "react-icons/fi";
