@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import "./home.css";
 import video from "../../Assets/rock-15527.mp4";
 import { GrLocation } from "react-icons/gr";
 import { HiFilter } from "react-icons/hi";
