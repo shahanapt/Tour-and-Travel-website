@@ -68,7 +68,7 @@ const Footer = () => {
           </div>
 
           <div className="footerLinks grid">
-            {/* Group One */}
+            {/*......... Group One ............*/}
             <div
               data-aos="fade-up"
               data-aos-duration="3000"
@@ -102,7 +102,7 @@ const Footer = () => {
               </li>
             </div>
 
-            {/* Group Two */}
+            {/*.......... Group Two .............*/}
             <div
               data-aos="fade-up"
               data-aos-duration="4000"
@@ -136,7 +136,7 @@ const Footer = () => {
               </li>
             </div>
 
-            {/* Group Three */}
+            {/*.......... Group Three .............*/}
             <div
               data-aos="fade-up"
               data-aos-duration="5000"
